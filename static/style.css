@@ -1,3 +1,13 @@
+body {
+  font-family: 'Garamond', 'times', serif;
+  font-size: 125%;
+}
+h1 { 
+  font-variant: small-caps;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
 ul.main-menu {
     list-style-type: none;
     margin: 0;
@@ -5,4 +15,10 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+}
+.frame {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
