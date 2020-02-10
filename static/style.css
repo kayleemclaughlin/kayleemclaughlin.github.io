@@ -1,17 +1,23 @@
 body {
   color:#4169E1;
-  font-family: 'fantasy', 'Stencil Std', 'Jazz LET';
+  font-family: 'Jazz LET', 'cursive', 'fantasy';
   font-size: 125%;
   font-variant: small-caps;
   text-align: center;
 }
 h1 { 
   color:#0000CD;
-  font-family: 'DejaVu Sans Mono', 'monospace', 'Comic Sans MS';
+  font-family: 'Jazz LET', 'cursive', 'fantasy';
   font-size: 125%;
   text-align: center;
   margin-bottom: 15px;
 }
+main {
+  color:#4169E1;
+  font-family: 'Andale Mono', 'monospace', 'didot';
+  font-size: 125%;
+  font-variant: small-caps;
+  text-align: center;
 
 ul.main-menu {
     list-style-type: none;
