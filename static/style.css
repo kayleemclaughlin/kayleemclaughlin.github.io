@@ -3,6 +3,7 @@ body {
   font-family:'Optima', 'sans-serif';
   font-size: 125%;
   text-align: center;
+  font-vatiant: small-caps;
   background-color:#f1f8ff;
 }
 h1 { 
