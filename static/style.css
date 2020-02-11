@@ -31,6 +31,9 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+a:hover {
+  color: red;
+}
 .frame {
   width: 75%;
   margin-left: auto;
