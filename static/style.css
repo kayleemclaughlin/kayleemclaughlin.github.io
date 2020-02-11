@@ -24,8 +24,8 @@ ul.main-menu {
     list-style-type: none;
     margin: 0;
     padding: 20px;
-  border: 2px solid black;
-  outline:#4CAF50 solid 10px;
+  border:#808080 2px;
+  outline:#FFFFFF solid 10px;
   text-align: center;
 }
 ul.main-menu>li {
