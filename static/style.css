@@ -32,7 +32,7 @@ ul.main-menu>li {
     display: inline;
 }
 a:hover {
-  color: red;
+  color: blue;
 }
 .frame {
   width: 75%;
