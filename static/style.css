@@ -23,8 +23,6 @@ h2 {
 ul.main-menu {
     list-style-type: none;
     margin: 0;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
     padding: 20px;
   border:#808080 2px;
   outline:#FFFFFF solid 10px;
