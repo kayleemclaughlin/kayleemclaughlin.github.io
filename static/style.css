@@ -25,21 +25,27 @@ h2 {
   text-decoration: underline;
 }
 ul.main-menu {
-    list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
-    float: left;
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
+  background-color: #FFFFFF;
 }
 ul.main-menu>li {
-    display: inline;
+   display: inline;
+  float: left;
+  color: #00008B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 a:hover {
-  color: blue;
+   background-color: #f1f8ff;
+  color: #00008B;
 }
+a.active{
+   background-color: #00008B;
+  color: white;
+}
+
 .frame {
   width: 75%;
   margin-left: auto;
