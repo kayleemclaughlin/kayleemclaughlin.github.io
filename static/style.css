@@ -31,7 +31,7 @@ ul.main-menu {
   border:#808080 2px;
   outline:#FFFFFF solid 10px;
   text-align: center;
-  width: 100%;
+  width: 120%;
 }
 ul.main-menu>li {
     display: inline;
