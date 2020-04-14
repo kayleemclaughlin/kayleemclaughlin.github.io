@@ -4,6 +4,8 @@ body {
   font-size: 120%;
   text-align: center;
   background-color:#f1f8ff;
+  margin-right: 80px;
+  margin-left: 80px;
 }
 h1 { 
   color:#00008B;
