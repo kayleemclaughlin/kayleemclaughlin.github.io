@@ -38,6 +38,10 @@ ul.main-menu>li {
     text-align: center;
     width: 100%;
 }
+ul.main-menu>li {
+  display: inline;
+}
+
 a:hover {
   color: blue;
 }
