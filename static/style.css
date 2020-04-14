@@ -25,21 +25,16 @@ h2 {
   text-decoration: underline;
 }
 ul.main-menu {
-  overflow: hidden;
-  background-color: #FFFFFF;
-}
-ul.main-menu>li {
- list-style-type: none;
-    font-weight: 400;
+    list-style-type: none;
     margin: auto;
     padding: 20px;
-    border:#808080 2px;
-    outline:#FFFFFF solid 10px;
-    text-align: center;
-    width: 100%;
+  border:#808080 2px;
+  outline:#FFFFFF solid 10px;
+  text-align: center;
+  width: 100%;
 }
 ul.main-menu>li {
-  display: inline;
+    display: inline;
 }
 a:hover {
   color: blue;
