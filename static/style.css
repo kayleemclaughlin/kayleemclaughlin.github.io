@@ -26,15 +26,13 @@ h2 {
 }
 ul.main-menu {
     list-style-type: none;
-    font-weight: 400;
-    display:block;
-    background-color:#FFFFFF
-      float:left
-    padding: 20px;
-    border:#808080 2px;
-    outline:#FFFFFF solid 10px;
-    text-align: center;
-    width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+    float: left;
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
 ul.main-menu>li {
     display: inline;
