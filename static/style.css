@@ -27,6 +27,8 @@ h2 {
 ul.main-menu {
     list-style-type: none;
     font-weight: 400;
+  display:block;
+  background-color:#FFFFFF
     margin: auto;
     padding: 20px;
     border:#808080 2px;
