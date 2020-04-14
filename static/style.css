@@ -32,6 +32,7 @@ ul.main-menu {
   outline:#FFFFFF solid 10px;
   text-align: center;
   width: 100%;
+  font-weight: 500;
 }
 ul.main-menu>li {
     display: inline;
